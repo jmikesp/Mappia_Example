@@ -140,8 +140,8 @@
 					<Keyword>group˸shp˸˸˸//github.com/jmikesp/Mappia_Example/releases/download/Map_Download/tramos_enlace.zip˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-80.13247239426767" miny="-2.281552110616842" maxx="-79.87093988713669" maxy="-1.9817922156567076"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="596480.4415247284" miny="9747789.516750002" maxx="625545.3622500014" maxy="9780908.764737712"></BoundingBox>
+				<LatLonBoundingBox minx="-80.98313635297072" miny="-2.7238678940711014" maxx="-80.13458293107452" maxy="-1.6913181673842794"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="501875.68950000126" miny="9698928.466364335" maxx="596194.8677409543" maxy="9813036.55141343"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
